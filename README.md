@@ -1,1 +1,0 @@
-Az elso kepes weboldalam
