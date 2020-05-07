@@ -32,7 +32,7 @@ body {
 .thumbnail {   
     display: flex;
     position: relative;
-    margin: 5px;
+    margin: auto;
     align-items: center;
     justify-content: space-between;
     cursor: pointer;

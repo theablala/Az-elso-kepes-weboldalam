@@ -116,3 +116,4 @@ imagesData.forEach(function (value) {
     
 });
 
+//$('h1').text('This is done by JavaScript!');
